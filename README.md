@@ -1,0 +1,1 @@
+Find magic squares for odd squares , n = 2m + 1 and double even squares, n = 4m
